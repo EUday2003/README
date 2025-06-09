@@ -1,6 +1,6 @@
 # Hi there, I’m Uday 👋
 
-I am a Electronics Engineer who has completed graduation with a strong focus on VLSI (Very Large Scale Integration) design. I am passionate about digital circuit design and ASIC implementation, aiming to grow in the semiconductor industry, especially interested in joining companies like NVIDIA.
+I am a Electronics Engineer who has completed graduation with a strong focus on VLSI (Very Large Scale Integration) design. I am passionate about digital circuit design and ASIC implementation, aiming to grow in the semiconductor industry.
 
 ## About Me
 - Electronics Engineering graduate
